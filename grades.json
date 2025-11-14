@@ -9,10 +9,10 @@
   ],
 
   "subject_averages": [
-    { "subject": "Math", "average": 6.9 },
+    { "subject": "Math", "average": 9.9 },
     { "subject": "English", "average": 7.4 },
     { "subject": "History", "average": 6.1 },
-    { "subject": "Biology", "average": 7.8 },
+    { "subject": "Biology", "average": 2.5 },
     { "subject": "Physics", "average": 7.0 }
   ],
 
