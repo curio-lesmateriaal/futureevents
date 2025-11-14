@@ -1,0 +1,58 @@
+{
+  "average_grades_per_month": [
+    { "month": "January", "average": 6.8 },
+    { "month": "February", "average": 7.1 },
+    { "month": "March", "average": 6.5 },
+    { "month": "April", "average": 7.4 },
+    { "month": "May", "average": 7.2 },
+    { "month": "June", "average": 7.6 }
+  ],
+
+  "subject_averages": [
+    { "subject": "Math", "average": 6.9 },
+    { "subject": "English", "average": 7.4 },
+    { "subject": "History", "average": 6.1 },
+    { "subject": "Biology", "average": 7.8 },
+    { "subject": "Physics", "average": 7.0 }
+  ],
+
+  "grade_distribution": [
+    { "grade": "Insufficient (1-5)", "count": 32 },
+    { "grade": "Sufficient (6)", "count": 40 },
+    { "grade": "Good (7)", "count": 55 },
+    { "grade": "Very Good (8)", "count": 28 },
+    { "grade": "Excellent (9-10)", "count": 15 }
+  ],
+
+  "student_skill_profiles": [
+    {
+      "student": "Alicia",
+      "skills": {
+        "Reading": 72,
+        "Writing": 65,
+        "Teamwork": 80,
+        "Problem Solving": 77,
+        "Creativity": 68
+      }
+    },
+    {
+      "student": "Rachid",
+      "skills": {
+        "Reading": 64,
+        "Writing": 70,
+        "Teamwork": 69,
+        "Problem Solving": 82,
+        "Creativity": 75
+      }
+    }
+  ],
+
+  "hours_studied_vs_grade": [
+    { "hours": 2, "grade": 5.5 },
+    { "hours": 4, "grade": 6.2 },
+    { "hours": 5, "grade": 6.8 },
+    { "hours": 7, "grade": 7.0 },
+    { "hours": 8, "grade": 7.6 },
+    { "hours": 10, "grade": 8.2 }
+  ]
+}
