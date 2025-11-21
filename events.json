@@ -1,0 +1,267 @@
+{
+  "evenementen": [
+    {
+      "id": 1,
+      "title": "Winterfair",
+      "start": "2025-11-25T10:00:00",
+      "end": "2025-11-25T17:00:00",
+      "latlng": [21.232323, 32.343434],
+      "locatieNaam": "Centraal Plein",
+      "ticketsVerkocht": 180,
+      "socialBuzz": 72
+    },
+    {
+      "id": 2,
+      "title": "Techniek Meetup",
+      "start": "2025-11-28T14:00:00",
+      "end": "2025-11-28T18:00:00",
+      "latlng": [20.556677, 31.223344],
+      "locatieNaam": "Innovatiehal",
+      "ticketsVerkocht": 95,
+      "socialBuzz": 54
+    },
+    {
+      "id": 3,
+      "title": "Sinterklaasmarkt",
+      "start": "2025-12-03T09:00:00",
+      "end": "2025-12-03T15:00:00",
+      "latlng": [22.987654, 33.123456],
+      "locatieNaam": "Dorpsplein",
+      "ticketsVerkocht": 240,
+      "socialBuzz": 81
+    },
+    {
+      "id": 4,
+      "title": "Kerstdiner Benefiet",
+      "start": "2025-12-10T18:00:00",
+      "end": "2025-12-10T22:00:00",
+      "latlng": [21.445566, 32.998877],
+      "locatieNaam": "Stadshotel Aurora",
+      "ticketsVerkocht": 120,
+      "socialBuzz": 90
+    },
+    {
+      "id": 5,
+      "title": "Eindejaarsconcert",
+      "start": "2025-12-20T19:30:00",
+      "end": "2025-12-20T23:00:00",
+      "latlng": [21.765432, 33.556677],
+      "locatieNaam": "Theater Zonnehof",
+      "ticketsVerkocht": 350,
+      "socialBuzz": 96
+    },
+    {
+      "id": 6,
+      "title": "Oudejaarsborrel",
+      "start": "2025-12-31T21:00:00",
+      "end": "2026-01-01T01:30:00",
+      "latlng": [21.112233, 32.667788],
+      "locatieNaam": "Stadsbar Horizon",
+      "ticketsVerkocht": 210,
+      "socialBuzz": 88
+    },
+
+    /* -------- 20 nieuwe evenementen hieronder ---------- */
+
+    {
+      "id": 7,
+      "title": "Winterwandeling",
+      "start": "2025-11-26T08:00:00",
+      "end": "2025-11-26T11:00:00",
+      "latlng": [20.778899, 32.334455],
+      "locatieNaam": "Park Noord",
+      "ticketsVerkocht": 60,
+      "socialBuzz": 43
+    },
+    {
+      "id": 8,
+      "title": "Fotografie Workshop",
+      "start": "2025-11-27T13:00:00",
+      "end": "2025-11-27T16:00:00",
+      "latlng": [21.889900, 33.112244],
+      "locatieNaam": "Creatief Centrum",
+      "ticketsVerkocht": 35,
+      "socialBuzz": 39
+    },
+    {
+      "id": 9,
+      "title": "Herfstconcert",
+      "start": "2025-11-29T20:00:00",
+      "end": "2025-11-29T22:30:00",
+      "latlng": [22.334455, 31.998877],
+      "locatieNaam": "Muziekzaal Allegro",
+      "ticketsVerkocht": 280,
+      "socialBuzz": 84
+    },
+    {
+      "id": 10,
+      "title": "CoderDojo Special",
+      "start": "2025-11-30T10:00:00",
+      "end": "2025-11-30T14:00:00",
+      "latlng": [21.004466, 32.556644],
+      "locatieNaam": "TechHub Centrum",
+      "ticketsVerkocht": 48,
+      "socialBuzz": 58
+    },
+    {
+      "id": 11,
+      "title": "Ambachtenmarkt",
+      "start": "2025-12-02T09:30:00",
+      "end": "2025-12-02T17:00:00",
+      "latlng": [20.998877, 31.889900],
+      "locatieNaam": "Markthal Oude Haven",
+      "ticketsVerkocht": 210,
+      "socialBuzz": 67
+    },
+    {
+      "id": 12,
+      "title": "Kerstworkshop Bakken",
+      "start": "2025-12-05T12:00:00",
+      "end": "2025-12-05T15:00:00",
+      "latlng": [21.554433, 33.221199],
+      "locatieNaam": "Culinair Atelier",
+      "ticketsVerkocht": 40,
+      "socialBuzz": 52
+    },
+    {
+      "id": 13,
+      "title": "Lichtjesparade",
+      "start": "2025-12-06T19:00:00",
+      "end": "2025-12-06T21:00:00",
+      "latlng": [22.778899, 32.334455],
+      "locatieNaam": "Binnenstad Boulevard",
+      "ticketsVerkocht": 500,
+      "socialBuzz": 120
+    },
+    {
+      "id": 14,
+      "title": "Filmavond Klassiekers",
+      "start": "2025-12-07T20:00:00",
+      "end": "2025-12-07T23:00:00",
+      "latlng": [20.445566, 33.112233],
+      "locatieNaam": "Cinema RetroLux",
+      "ticketsVerkocht": 95,
+      "socialBuzz": 44
+    },
+    {
+      "id": 15,
+      "title": "Kerst Zangworkshop",
+      "start": "2025-12-08T17:00:00",
+      "end": "2025-12-08T19:00:00",
+      "latlng": [21.667788, 32.221100],
+      "locatieNaam": "Muziekschool Forte",
+      "ticketsVerkocht": 22,
+      "socialBuzz": 30
+    },
+    {
+      "id": 16,
+      "title": "Winterloop",
+      "start": "2025-12-09T09:00:00",
+      "end": "2025-12-09T12:00:00",
+      "latlng": [22.112244, 33.556677],
+      "locatieNaam": "Sportpark De Velden",
+      "ticketsVerkocht": 180,
+      "socialBuzz": 73
+    },
+    {
+      "id": 17,
+      "title": "Kerst Muziekfestival",
+      "start": "2025-12-11T18:00:00",
+      "end": "2025-12-11T23:00:00",
+      "latlng": [21.333444, 32.667788],
+      "locatieNaam": "Openluchtstage Aurora",
+      "ticketsVerkocht": 420,
+      "socialBuzz": 110
+    },
+    {
+      "id": 18,
+      "title": "Creatieve Middag",
+      "start": "2025-12-12T13:00:00",
+      "end": "2025-12-12T16:00:00",
+      "latlng": [20.556644, 31.332211],
+      "locatieNaam": "Jeugdhuis Prisma",
+      "ticketsVerkocht": 28,
+      "socialBuzz": 21
+    },
+    {
+      "id": 19,
+      "title": "Kerstmarkt Groot",
+      "start": "2025-12-13T10:00:00",
+      "end": "2025-12-13T20:00:00",
+      "latlng": [21.998877, 32.889911],
+      "locatieNaam": "Stadspark Arena",
+      "ticketsVerkocht": 600,
+      "socialBuzz": 150
+    },
+    {
+      "id": 20,
+      "title": "Sneeuwpret Dag",
+      "start": "2025-12-14T09:00:00",
+      "end": "2025-12-14T13:30:00",
+      "latlng": [22.445566, 33.009988],
+      "locatieNaam": "Heuvelgebied Noord",
+      "ticketsVerkocht": 140,
+      "socialBuzz": 68
+    },
+    {
+      "id": 21,
+      "title": "Kerstkoor Gala",
+      "start": "2025-12-15T20:00:00",
+      "end": "2025-12-15T22:00:00",
+      "latlng": [21.212121, 32.343434],
+      "locatieNaam": "Kerkzaal Sint Markus",
+      "ticketsVerkocht": 190,
+      "socialBuzz": 82
+    },
+    {
+      "id": 22,
+      "title": "Eindproject Expo",
+      "start": "2025-12-16T11:00:00",
+      "end": "2025-12-16T17:00:00",
+      "latlng": [20.873456, 31.456789],
+      "locatieNaam": "Kunsthal Panorama",
+      "ticketsVerkocht": 75,
+      "socialBuzz": 49
+    },
+    {
+      "id": 23,
+      "title": "Retro Game Avond",
+      "start": "2025-12-17T18:00:00",
+      "end": "2025-12-17T22:00:00",
+      "latlng": [21.657483, 33.234567],
+      "locatieNaam": "GameCafé Pixel",
+      "ticketsVerkocht": 52,
+      "socialBuzz": 63
+    },
+    {
+      "id": 24,
+      "title": "Kerst Sing-Along",
+      "start": "2025-12-18T19:00:00",
+      "end": "2025-12-18T21:00:00",
+      "latlng": [22.111999, 32.556677],
+      "locatieNaam": "Theater De Linde",
+      "ticketsVerkocht": 260,
+      "socialBuzz": 92
+    },
+    {
+      "id": 25,
+      "title": "Winter BBQ",
+      "start": "2025-12-19T17:30:00",
+      "end": "2025-12-19T21:00:00",
+      "latlng": [21.889977, 33.001122],
+      "locatieNaam": "Buitenplaats De Hoeve",
+      "ticketsVerkocht": 110,
+      "socialBuzz": 57
+    },
+    {
+      "id": 26,
+      "title": "Laatste Schooldag Festival",
+      "start": "2025-12-22T12:00:00",
+      "end": "2025-12-22T17:00:00",
+      "latlng": [20.667788, 31.778899],
+      "locatieNaam": "Campus Zuid",
+      "ticketsVerkocht": 330,
+      "socialBuzz": 101
+    }
+  ]
+}
